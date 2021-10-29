@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BEP20Token.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BEP20Token.sol": {
+			"keccak256": "0x5f2b9086efea4b5284c0d6ee4a7a5edeb8f5062197dcf53fa40e9ea0a74915f8",
+			"urls": [
+				"bzz-raw://bcd56ea0ad10c26b8c90103d7c62b5a99f03fdba8bfb81f720abadbfdf986a0b",
+				"dweb:/ipfs/QmPdSRJwBFVGTPpje2kBaURFhtgeRtZY624e8xAV82ahmx"
+			]
+		}
+	},
+	"version": 1
+}
